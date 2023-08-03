@@ -1,2 +1,3 @@
-# PrepCourse-Henry
-Este es un repositorio de prueba para el modulo2 del PrepCourse de Henry
+David Perdomo
+Proyecto de prueba para evidenciar como se traslada información des GitHub al Pc y viceversa.
+02Ago23
